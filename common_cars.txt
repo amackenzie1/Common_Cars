@@ -1,0 +1,279 @@
+Ford F-Series, 909330
+Chevrolet Silverado, 585582
+Ram Pickup, 536980
+Toyota RAV4, 427168
+Nissan Rogue, 412110
+Honda CR-V, 379021
+Toyota Camry, 343439
+Chevrolet Equinox, 332621
+Honda Civic, 325760
+Toyota Corolla, 303732
+Honda Accord, 291071
+Ford Escape, 272228
+Ford Explorer, 261571
+Toyota Tacoma, 245659
+Toyota Highlander, 244511
+Jeep Wrangler, 240032
+Jeep Cherokee, 239437
+Jeep Grand Cherokee, 224908
+GMC Sierra, 219554
+Nissan Sentra, 213046
+Nissan Altima, 209146
+Hyundai Elantra, 200415
+Subaru Outback, 178854
+Ford Fusion, 173600
+Subaru Forester, 171613
+Jeep Compass, 171167
+Honda Pilot, 159615
+Hyundai Tuscon, 153792
+Dodge Grand Caravan, 151927
+Mazda CX-5, 150622
+Chevrolet Traverse, 146264
+Chevrolet Malibu, 144542
+Subaru CrossTrek, 144384
+Chevrolet Cruze, 142618
+Tesla Model 3, 140317
+Toyota 4Runner, 139694
+Ford Transit, 137794
+Chevrolet Colorado, 134842
+Ford Edge, 134122
+Chrysler Pacifica, 118322
+Toyota Tundra, 118258
+Hyundai Santa Fe, 117038
+GMC Terrain, 114311
+Ford Focus, 114045
+Lexus RX, 111636
+Kia Sorento, 107846
+Honda Odyssey, 106327
+Hyundai Sonata, 105118
+Kia Soul, 104709
+Chevrolet Tahoe, 104152
+Volkswagen Tiguan, 103022
+Kia Forte, 101890
+Kia Optima, 101603
+Jeep Renegade, 97062
+Dodge Journey, 94096
+Buick Encore, 93071
+Volkswagen Jetta, 90794
+Chevrolet Trax, 89917
+GMC Acadia, 88622
+Toyota Sienna, 87672
+Toyota Prius Family, 87590
+Honda HR-V, 85494
+Nissan Murano, 83547
+Kia Sportage, 82823
+Dodge Charger, 80226
+Nissan Frontier, 79646
+Subaru Impreza, 76400
+Ford Mustang, 75842
+Nissan Versa, 75809
+GMC Yukon, 74678
+Audi Q5, 69978
+Mercedes-Benz GLC/GLK-Class, 69729
+Nissan Pathfinder, 67550
+Chevrolet Express, 66963
+Dodge Challenger, 66716
+Dodge Durango, 65947
+Mazda 3, 64638
+Acura RDX, 63580
+Lexus NX, 62079
+BMW X3, 61351
+Chevrolet Suburban, 60633
+Cadillac XT5, 60566
+Volkswagen Atlas, 59677
+Chevrolet Impala, 56557
+Mercedes-Benz C-Class, 54829
+Ford Expedition, 54661
+Ford EcoSport, 54348
+Ford Fiesta, 51730
+Acura MDX, 51512
+Chevrolet Camaro, 50963
+Nissan Titan, 50459
+Buick Enclave, 49648
+Toyota C-HR, 49642
+Lexus ES, 48482
+Ford E-Series, 47936
+Infiniti QX60, 47370
+Hyundai Kona, 47090
+Ram ProMaster, 46600
+Chrysler 300, 46593
+Mercedes-Benz E / CLS-Class, 46424
+Mercedes-Benz GLE-Class, 46010
+BMW X5, 45013
+BMW 3-Series, 44578
+BMW 5-Series, 43937
+Nissan Maxima, 42337
+Volkswagen Golf, 42271
+Volkswagen Passat, 41401
+Ford Taurus, 40341
+Subaru Legacy, 40109
+Mitsubishi Outlander, 37952
+Audi Q7, 37417
+Mitsubishi Outlander Sport, 36867
+Subaru Ascent, 36211
+Cadillac Escalade, 36032
+Honda Fit, 35030
+Infiniti Q50, 34763
+Audi A4, 34311
+Toyota Avalon, 33580
+GMC Canyon, 33493
+Volvo XC60, 32689
+Nissan Armada, 32650
+Ford Transit Connect, 31923
+Volvo XC90, 31609
+BMW 4-Series, 31379
+Mazda 6, 30938
+Honda Ridgeline, 30592
+Acura TLX, 30468
+Buick Envision, 30153
+Tesla Model S, 29950
+Hyundai Accent, 29090
+BMW X1, 29057
+Subaru Impreza WRX, 28730
+Lincoln MKX/Nautilus, 28573
+Mazda CX-9, 28257
+Kia Niro, 28232
+Mercedes-Benz Sprinter, 27564
+Tesla Model X, 27250
+Toyota Yaris, 27209
+Lexus GX, 26724
+Mercedes-Benz CLA-Class, 26269
+Lincoln MKC, 26241
+Mini Cooper, 26119
+Audi A5, 25972
+Infiniti QX50, 25389
+Mitsubishi Mirage, 24316
+Land Rover Range Rover Sport, 24282
+Mercedes-Benz GLA-Class, 24136
+Chevrolet Spark, 23603
+Nissan Kicks, 23312
+Kia Rio, 22975
+Porsche Macan, 22954
+Lexus IS, 22927
+Mercedes-Benz GL/GLS-Class, 21973
+Chevrolet Sonic, 20613
+Ford Flex, 20308
+Honda Clarity FCV, 20174
+Lincoln MKZ, 19852
+GMC Savana, 19685
+Infiniti QX80, 19207
+Land Rover Range Rover, 19030
+Chevrolet Corvette, 18789
+Nissan NV200, 18628
+Chevrolet Volt, 18306
+Audi A3, 18305
+Chevrolet Bolt, 18020
+Kia Sedona, 17928
+Lincoln Navigator, 17839
+Cadillac XTS, 17729
+Mini Countryman, 17565
+Land Rover Range Rover Velar, 17037
+Nissan NV, 16902
+Mazda CX-3, 16899
+Audi Q3, 16828
+Kia Stinger, 16806
+BMW X2, 16154
+Buick LaCrosse, 15527
+Hyundai Ioniq, 15076
+Mercedes-Benz S-Class, 14978
+Nissan Leaf, 14715
+Volkswagen Beetle, 14411
+Buick Regal, 14117
+Ram ProMaster City, 13788
+Jaguar F-Pace, 12997
+Honda Insight, 12513
+Volvo XC40, 12420
+Volvo 60-Series, 12176
+Alfa Romeo Stelvio, 12043
+Land Rover Discovery Sport, 12035
+Alfa Romeo Giulia, 11519
+Acura ILX, 11273
+Cadillac CTS, 11220
+Toyota Sequoia, 11121
+Porsche Cayenne, 11106
+Hyundai Veloster, 10871
+Cadillac ATS, 10860
+Audi A6, 10561
+Land Rover Range Rover Evoque, 9917
+Volvo 90-Series, 9892
+Land Rover Discovery / LR4, 9842
+Porsche 911, 9783
+Cadillac CT6, 9669
+Mitsubishi Eclipse Cross, 9485
+Lexus LS, 9301
+BMW 2-Series, 9208
+Mazda MX-5 Miata, 8971
+Lincoln Continental, 8758
+Infiniti Q60, 8405
+BMW 7-Series, 8271
+Porsche Panamera, 8114
+Infiniti QX30, 8101
+Mercedes-Benz Metris, 7800
+Cadillac XT4, 7785
+Genesis G80, 7446
+BMW X6, 6862
+Ford C-Max, 6683
+Lexus GS, 6604
+BMW i3, 6120
+Jaguar E-Pace, 5985
+Fiat 500, 5370
+Porsche 718, 5276
+Fiat 500X, 5223
+Lexus LX, 4753
+Jaguar XE, 4704
+Buick Cascada, 4628
+Kia Cadenza, 4507
+Infiniti Q70, 4479
+BMW X4, 4323
+Toyota 86 / FR-S, 4133
+Mitsubishi Outlander PHEV, 3866
+Audi A7, 3852
+Subaru BRZ, 3834
+BMW 6-Series, 3762
+Mercedes-Benz G-Class, 3593
+Fiat 124 Spider, 3515
+Nissan 370Z, 3468
+Lexus RC, 3358
+Toyota Land Cruiser, 3235
+Lincoln MKT, 2324
+Jaguar F-Type, 2268
+Jaguar XF, 2208
+Genesis G90, 2136
+Mercedes-Benz SL-Class, 2126
+Audi Q8, 2029
+Volkswagen Touareg, 2022
+Mercedes-Benz SLC-Class, 1993
+Lexus LC, 1979
+Acura RLX, 1931
+Toyota Mirai, 1689
+Audi A8, 1599
+Jaguar XJ, 1579
+Mercedes-Benz AMG GT, 1525
+Fiat 500L, 1413
+Audi TT, 1289
+Smart ForTwo, 1276
+Chrysler 200, 1043
+Infiniti QX70, 954
+Audi R8, 927
+BMW i8, 772
+Nissan Juke, 731
+Hyundai Azera, 629
+Jeep Patriot, 621
+Nissan GT-R, 538
+Volkswagen CC, 455
+Lexus UX, 453
+Jaguar I-Pace, 393
+Dodge Dart, 389
+Genesis G70, 358
+Kia K900, 354
+Alfa Romeo 4C, 238
+BMW 8-Series, 223
+Acura NSX, 170
+Mercedes-Benz B-Class, 135
+Ford GT, 126
+Honda CR-Z, 30
+Chevrolet Blazer, 27
+Dodge Viper, 19
+Toyota Venza, 9
+Hyundai Nexo, 8
+Ram Cargo Van, 0
