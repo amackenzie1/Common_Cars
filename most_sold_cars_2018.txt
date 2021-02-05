@@ -1,0 +1,279 @@
+Ford F-Series
+Chevrolet Silverado
+Ram Pickup
+Toyota RAV4
+Nissan Rogue
+Honda CR-V
+Toyota Camry
+Chevrolet Equinox
+Honda Civic
+Toyota Corolla
+Honda Accord
+Ford Escape
+Ford Explorer
+Toyota Tacoma
+Toyota Highlander
+Jeep Wrangler
+Jeep Cherokee
+Jeep Grand Cherokee
+GMC Sierra
+Nissan Sentra
+Nissan Altima
+Hyundai Elantra
+Subaru Outback
+Ford Fusion
+Subaru Forester
+Jeep Compass
+Honda Pilot
+Hyundai Tuscon
+Dodge Grand Caravan
+Mazda CX-5
+Chevrolet Traverse
+Chevrolet Malibu
+Subaru CrossTrek
+Chevrolet Cruze
+Tesla Model 3
+Toyota 4Runner
+Ford Transit
+Chevrolet Colorado
+Ford Edge
+Chrysler Pacifica
+Toyota Tundra
+Hyundai Santa Fe
+GMC Terrain
+Ford Focus
+Lexus RX
+Kia Sorento
+Honda Odyssey
+Hyundai Sonata
+Kia Soul
+Chevrolet Tahoe
+Volkswagen Tiguan
+Kia Forte
+Kia Optima
+Jeep Renegade
+Dodge Journey
+Buick Encore
+Volkswagen Jetta
+Chevrolet Trax
+GMC Acadia
+Toyota Sienna
+Toyota Prius Family
+Honda HR-V
+Nissan Murano
+Kia Sportage
+Dodge Charger
+Nissan Frontier
+Subaru Impreza
+Ford Mustang
+Nissan Versa
+GMC Yukon
+Audi Q5
+Mercedes-Benz GLC/GLK-Class
+Nissan Pathfinder
+Chevrolet Express
+Dodge Challenger
+Dodge Durango
+Mazda 3
+Acura RDX
+Lexus NX
+BMW X3
+Chevrolet Suburban
+Cadillac XT5
+Volkswagen Atlas
+Chevrolet Impala
+Mercedes-Benz C-Class
+Ford Expedition
+Ford EcoSport
+Ford Fiesta
+Acura MDX
+Chevrolet Camaro
+Nissan Titan
+Buick Enclave
+Toyota C-HR
+Lexus ES
+Ford E-Series
+Infiniti QX60
+Hyundai Kona
+Ram ProMaster
+Chrysler 300
+Mercedes-Benz E / CLS-Class
+Mercedes-Benz GLE-Class
+BMW X5
+BMW 3-Series
+BMW 5-Series
+Nissan Maxima
+Volkswagen Golf
+Volkswagen Passat
+Ford Taurus
+Subaru Legacy
+Mitsubishi Outlander
+Audi Q7
+Mitsubishi Outlander Sport
+Subaru Ascent
+Cadillac Escalade
+Honda Fit
+Infiniti Q50
+Audi A4
+Toyota Avalon
+GMC Canyon
+Volvo XC60
+Nissan Armada
+Ford Transit Connect
+Volvo XC90
+BMW 4-Series
+Mazda 6
+Honda Ridgeline
+Acura TLX
+Buick Envision
+Tesla Model S
+Hyundai Accent
+BMW X1
+Subaru Impreza WRX
+Lincoln MKX/Nautilus
+Mazda CX-9
+Kia Niro
+Mercedes-Benz Sprinter
+Tesla Model X
+Toyota Yaris
+Lexus GX
+Mercedes-Benz CLA-Class
+Lincoln MKC
+Mini Cooper
+Audi A5
+Infiniti QX50
+Mitsubishi Mirage
+Land Rover Range Rover Sport
+Mercedes-Benz GLA-Class
+Chevrolet Spark
+Nissan Kicks
+Kia Rio
+Porsche Macan
+Lexus IS
+Mercedes-Benz GL/GLS-Class
+Chevrolet Sonic
+Ford Flex
+Honda Clarity FCV
+Lincoln MKZ
+GMC Savana
+Infiniti QX80
+Land Rover Range Rover
+Chevrolet Corvette
+Nissan NV200
+Chevrolet Volt
+Audi A3
+Chevrolet Bolt
+Kia Sedona
+Lincoln Navigator
+Cadillac XTS
+Mini Countryman
+Land Rover Range Rover Velar
+Nissan NV
+Mazda CX-3
+Audi Q3
+Kia Stinger
+BMW X2
+Buick LaCrosse
+Hyundai Ioniq
+Mercedes-Benz S-Class
+Nissan Leaf
+Volkswagen Beetle
+Buick Regal
+Ram ProMaster City
+Jaguar F-Pace
+Honda Insight
+Volvo XC40
+Volvo 60-Series
+Alfa Romeo Stelvio
+Land Rover Discovery Sport
+Alfa Romeo Giulia
+Acura ILX
+Cadillac CTS
+Toyota Sequoia
+Porsche Cayenne
+Hyundai Veloster
+Cadillac ATS
+Audi A6
+Land Rover Range Rover Evoque
+Volvo 90-Series
+Land Rover Discovery / LR4
+Porsche 911
+Cadillac CT6
+Mitsubishi Eclipse Cross
+Lexus LS
+BMW 2-Series
+Mazda MX-5 Miata
+Lincoln Continental
+Infiniti Q60
+BMW 7-Series
+Porsche Panamera
+Infiniti QX30
+Mercedes-Benz Metris
+Cadillac XT4
+Genesis G80
+BMW X6
+Ford C-Max
+Lexus GS
+BMW i3
+Jaguar E-Pace
+Fiat 500
+Porsche 718
+Fiat 500X
+Lexus LX
+Jaguar XE
+Buick Cascada
+Kia Cadenza
+Infiniti Q70
+BMW X4
+Toyota 86 / FR-S
+Mitsubishi Outlander PHEV
+Audi A7
+Subaru BRZ
+BMW 6-Series
+Mercedes-Benz G-Class
+Fiat 124 Spider
+Nissan 370Z
+Lexus RC
+Toyota Land Cruiser
+Lincoln MKT
+Jaguar F-Type
+Jaguar XF
+Genesis G90
+Mercedes-Benz SL-Class
+Audi Q8
+Volkswagen Touareg
+Mercedes-Benz SLC-Class
+Lexus LC
+Acura RLX
+Toyota Mirai
+Audi A8
+Jaguar XJ
+Mercedes-Benz AMG GT
+Fiat 500L
+Audi TT
+Smart ForTwo
+Chrysler 200
+Infiniti QX70
+Audi R8
+BMW i8
+Nissan Juke
+Hyundai Azera
+Jeep Patriot
+Nissan GT-R
+Volkswagen CC
+Lexus UX
+Jaguar I-Pace
+Dodge Dart
+Genesis G70
+Kia K900
+Alfa Romeo 4C
+BMW 8-Series
+Acura NSX
+Mercedes-Benz B-Class
+Ford GT
+Honda CR-Z
+Chevrolet Blazer
+Dodge Viper
+Toyota Venza
+Hyundai Nexo
+Ram Cargo Van
